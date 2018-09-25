@@ -1,0 +1,8 @@
+var fs=require('fs');
+var rs=fs.createReadStream('00_z001b.ks');
+var data='';
+console.log(fs)
+
+---------------------
+
+本文来自 画夜 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/zsr_251/article/details/49993911?utm_source=copy 
